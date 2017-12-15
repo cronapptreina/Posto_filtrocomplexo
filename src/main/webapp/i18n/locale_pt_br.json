@@ -123,5 +123,11 @@
   "ValorMinFiltro": "Valor mínimo ",
   "ValorMaxFiltro": "Valor máximo",
   "Filtrar": "Filtrar",
-  "AbastecimentoValor": "Abastecimento por intervalo de valor"
+  "AbastecimentoValor": "Abastecimento por intervalo de valor",
+  "Dataini": "Data de início",
+  "DataFim": "Data Término",
+  "Minkm": "Km rodados (minimo)",
+  "KmMax": "Km rodados (Máximo)",
+  "FiltroPlaca": "Filtro por placa",
+  "FiltroPosto": "Filtrar por nome de posto"
 }

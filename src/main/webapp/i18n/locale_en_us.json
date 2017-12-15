@@ -123,5 +123,11 @@
   "ValorMinFiltro": "Minimum value ",
   "ValorMaxFiltro": "Maximum value",
   "Filtrar": "Filter",
-  "AbastecimentoValor": "Supply by value range"
+  "AbastecimentoValor": "Supply by value range",
+  "Dataini": "Start date",
+  "DataFim": "Finish Date",
+  "Minkm": "Km driven (minimum)",
+  "KmMax": "Km driven (Maximum)",
+  "FiltroPlaca": "Filter by license",
+  "FiltroPosto": "Filter by station name"
 }
